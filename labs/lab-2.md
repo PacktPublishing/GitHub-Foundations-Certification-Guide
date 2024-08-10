@@ -13,12 +13,12 @@ In this lab, we will walk through the basics of the GitHub interface and get exp
     _Figure 2.5: Example of trending repositories on GitHub_
   	
     On each row of records, you will find important information about each repo: 
-        1.	The repository name: This is usually in the format {owner}/{repo_name}, where owner is the owner of the repo, i.e. either individual or organization; and the repo_name is the name of the repository.
-        2.	Stars: The number of stars a repository has is the number of people (developers) that have bookmarked the repo. A repo earns a star every time someone stars that repo (adds to their bookmarks).
-        3.	Language: This is the language the source code in the repo is mostly written in. This is derived from the language with most lines of code across all the files in the repo. Remember, a repo can have multiple languages co-existing in different files in it. This may be a programming, scripting, markup, or markdown language.
-        4.	Built by: This is a list of the top contributors of the repo’s contents. This is usually represented by their avatars. Clicking on the avatar will take you to the profile page of the contributor.
+      1. The repository name: This is usually in the format {owner}/{repo_name}, where owner is the owner of the repo, i.e. either individual or organization; and the repo_name is the name of the repository.
+      2. Stars: The number of stars a repository has is the number of people (developers) that have bookmarked the repo. A repo earns a star every time someone stars that repo (adds to their bookmarks).
+      3. Language: This is the language the source code in the repo is mostly written in. This is derived from the language with most lines of code across all the files in the repo. Remember, a repo can have multiple languages co-existing in different files in it. This may be a programming, scripting, markup, or markdown language.
+      4. Built by: This is a list of the top contributors of the repo’s contents. This is usually represented by their avatars. Clicking on the avatar will take you to the profile page of the contributor.
   	
-       ![navigating-github-repo-stats](https://github.com/user-attachments/assets/bb853d7e-aeca-42bd-b375-7d8c65d316c3)
+      ![navigating-github-repo-stats](https://github.com/user-attachments/assets/bb853d7e-aeca-42bd-b375-7d8c65d316c3)
 
        _Figure 2.6 Summarized info of a repo showing vital stats_
 4.	Visit [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp). This will take you to the freeCodeCamp repository, one of the most widely used open-source repos. Scroll down to read the README. Then, explore the source code by browsing through the directories you see there.
