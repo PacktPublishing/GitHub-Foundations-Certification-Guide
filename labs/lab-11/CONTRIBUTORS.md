@@ -17,7 +17,7 @@ As part of Lab 11.1, you'll add your information to this table by:
 5. Committing and pushing your changes
 6. Creating a pull request
 
-Follow the complete instructions in [`labs/lab-11.1/lab-11.1.md`](labs/lab-11.1/lab-11.1.md).
+Follow the complete instructions in [`labs/lab-11.1/lab-11.1.md`](lab-11.1.md).
 
 ## Contribution Guidelines
 
