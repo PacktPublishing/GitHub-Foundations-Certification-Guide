@@ -5,6 +5,7 @@ Thank you to all the contributors who have helped make this project better! This
 | Name | GitHub Username | Contribution Date | Lab Completed |
 |------|----------------|-------------------|---------------|
 | Ayo | @github | 2025-06-10 | Lab 11.1 |
+| Rohit | @rohitpackt | 2025-06-26 |
 
 ## How to Add Your Name
 
