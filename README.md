@@ -100,18 +100,25 @@ By the end of this book, you’ll be prepared to take the GitHub Foundations Cer
 <details open> 
   <summary><h2>Requirements for this book</summary>
 You will need to have a basic knowledge of writing/editing code or scripts in one language, as well as the following tools.
-<ul> <li>Software/hardware covered in the book</li>
-  <ul>
-    <li>Visual Studio Code 1.99.3</li>
-    <li>Command Prompt, PowerShell, or Terminal</li>
-    <li>GitHub.com account (Obtaining a GitHub.com account is free. You can sign up at www.github.com.)</li>
-  </ul>
-</ul>
-<ul><li>Operating system requirements</li>
-  <ul>
-    <li>Windows, macOS, or Linux</li>
-  </ul>
-</ul>
+<table>
+  <tr>
+     <td><b>Software/hardware covered in the book</td>
+     <td><b>Operating system requirements</td>
+  </tr>
+  <tr>
+    <td>Visual Studio Code 1.99.3</td>
+    <td>Windows, macOS, or Linux</td>
+  </tr>
+  <tr>
+     <td>Command Prompt, PowerShell, or Terminal</td>
+     <td></td> 
+  </tr>
+  <tr>
+     <td>GitHub.com account</td>
+     <td></td>
+  </tr>
+</table>
+Obtaining a GitHub.com account is free. You can sign up at www.github.com.
 </details>
     
 
