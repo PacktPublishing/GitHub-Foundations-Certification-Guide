@@ -6,6 +6,7 @@ Thank you to all the contributors who have helped make this project better! This
 |------|----------------|-------------------|---------------|
 | Ayo | @github | 2025-06-10 | Lab 11.1 |
 | Rohit | @rohitpackt | 2025-06-26 |
+| Wilbert Valverde B | @wilbertvb | 2025-11-19 | Lab 11.1 |
 
 ## How to Add Your Name
 
